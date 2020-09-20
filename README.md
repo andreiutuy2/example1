@@ -1,4 +1,4 @@
 # git-playground
 Testing some git features.
 
-This is the new line.
+Somebody else gas added a new line!
